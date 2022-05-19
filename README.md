@@ -1,6 +1,4 @@
 # Pizza-Hunt
-# Deep-Thoughts
-
 
   ## Table of Contents
   - [Description](#Description)
